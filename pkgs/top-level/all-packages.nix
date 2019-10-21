@@ -22316,6 +22316,8 @@ in
 
   freesweep = callPackage ../games/freesweep { };
 
+  frobtads = callPackage ../games/frobtads { };
+
   frotz = callPackage ../games/frotz { };
 
   frogatto = callPackage ../games/frogatto { };
